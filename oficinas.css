@@ -163,10 +163,6 @@ h1, h2, h3{
     flex-shrink: 0;
 }
 
-.oficina-texto{
-
-}
-
 .oficina h2{
     font-size: 48px;
     margin-bottom: 10px;
@@ -202,3 +198,4 @@ h1, h2, h3{
     margin-top: 10px;
     font-weight: 700;
 }
+
